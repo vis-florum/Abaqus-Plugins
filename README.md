@@ -1,5 +1,5 @@
 # Abaqus-Plugins
-A collection of my Abaqus/CAE GUI plugins
+A collection of my Abaqus/CAE GUI plugins for Abaqus 6.14
 
 Some plugins were made during learning how to code.
 Some plugins were made to solve specific tasks in my work.
